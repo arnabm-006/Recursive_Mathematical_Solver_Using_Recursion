@@ -1,0 +1,1 @@
+A Python-based Recursive Mathematical Solver that calculates factorials and generates Fibonacci series using recursion. It features an interactive menu, input validation, and demonstrates fundamental Python programming concepts such as recursive functions, loops, and conditional statements.
